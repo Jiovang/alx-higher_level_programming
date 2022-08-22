@@ -1,0 +1,8 @@
+# this is my python run file
+# this is another comment I am adding to this code
+
+#!/bin/bash
+
+#python3 "$PYFILE"
+
+
